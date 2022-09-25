@@ -933,16 +933,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "simple_web_app"
-version = "0.1.0"
-dependencies = [
- "actix-web",
- "chrono",
- "serde",
- "serde_json",
-]
-
-[[package]]
 name = "slab"
 version = "0.4.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -976,6 +966,16 @@ dependencies = [
  "proc-macro2",
  "quote",
  "unicode-ident",
+]
+
+[[package]]
+name = "taap"
+version = "0.1.0"
+dependencies = [
+ "actix-web",
+ "chrono",
+ "serde",
+ "serde_json",
 ]
 
 [[package]]
