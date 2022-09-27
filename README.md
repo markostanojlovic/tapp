@@ -1,2 +1,2 @@
 # tapp
-Tap-app - collect taps with commetns 
+Tap-app - collect taps
